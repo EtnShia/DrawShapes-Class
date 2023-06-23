@@ -11,6 +11,10 @@ There are...
 * Rectangles
 * Hexagons
 * Octagons
+* Stars
 
 Each function has parameters, they are...
-& ggg
+* Size
+* Filled
+
+### Only Stars have Points
