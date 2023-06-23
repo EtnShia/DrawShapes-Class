@@ -17,4 +17,4 @@ Each function has parameters, they are...
 * Size
 * Filled
 
-### Only Stars have Points
+##### Only Stars have Points
