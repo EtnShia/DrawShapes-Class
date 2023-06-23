@@ -20,3 +20,5 @@ Each function has parameters, they are...
 
 #### For the Size parameter, if you increase the number, it will make the size larger. And if you decrease the number, the size will get smaller.
 #### For the Filled parameter, if you use the keyword True, it will fill the shape. And, if you use the keyword False, it will not fill the shape.
+#### For the Points parameter, if you increase the number, it will make the points of the stars will get more. And if you decrease the number,
+#### it will make the points of the stars will get less.
