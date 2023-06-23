@@ -16,5 +16,7 @@ There are...
 Each function has parameters, they are...
 * Size
 * Filled
+#### And, Only Stars have the Points parameter.
 
-#### And, Only Stars have Points
+#### For the Size parameter, if you increase the number, it will make the size larger, and if you decrease the number, the size will get smaller.
+#### For the Filled parameter, 
